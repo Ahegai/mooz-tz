@@ -1,0 +1,17 @@
+@import 'normalize';
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
